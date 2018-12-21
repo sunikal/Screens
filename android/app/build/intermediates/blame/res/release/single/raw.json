@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_nested_folders.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_nested_folders.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_default_balloon.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_default_balloon.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_visibility_ground_overlay.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_nested_multigeometry.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_nested_multigeometry.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_multiple_placemarks.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_multiple_placemarks.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_poly_style_boolean_numeric.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_basic_placemark.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_basic_placemark.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_draw_order_ground_overlay.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_document_nest.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_document_nest.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_ballon_gx_prefix.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\consumer_onesignal_keep.xml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\OneSignal-3.10.1.aar\\5eb229da0b3ce9668b197e22e1a1b5f1\\res\\raw\\consumer_onesignal_keep.xml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_cdata.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_cdata.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_extended_data.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_extended_data.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\rzp_config.json",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\checkout-1.4.9.aar\\b2d68647d5471516dd535dd18bd7003c\\res\\raw\\rzp_config.json"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_ground_overlay.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_basic_folder.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_basic_folder.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_unknwown_folder.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_unknwown_folder.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_poly_style_boolean_alpha.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_ground_overlay_color.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_ground_overlay_color.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_unsupported.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_unsupported.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_multigeometry_placemarks.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\amu_inline_style.kml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\e1db2b65a3789af7eaf5ff707b9fd306\\res\\raw\\amu_inline_style.kml"
+    }
+]

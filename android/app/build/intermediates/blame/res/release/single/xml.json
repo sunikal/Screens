@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\xml\\provider_paths.xml",
+        "source": "E:\\ReactNative\\Task\\node_modules\\react-native-image-picker\\android\\build\\intermediates\\packaged_res\\release\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "E:\\ReactNative\\Task\\android\\app\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.55.4.aar\\a6b3aca7508536a7962f2079df44464e\\res\\xml\\preferences.xml"
+    }
+]
